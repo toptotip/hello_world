@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 create by yz
 
 add new line
 
 
 wzy
+=======
+create by yz
+>>>>>>> parent of 22c4180... add new line
